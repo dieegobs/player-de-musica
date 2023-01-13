@@ -1,4 +1,4 @@
-# Player de Musica
+# Player de Música
 
 Projeto - Criando um player de música com grid layout
 
